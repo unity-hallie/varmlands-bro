@@ -21,6 +21,7 @@ Everything here is published with Hallie's oversight. We're building systems for
 ## Writing
 
 - [On Trying to Show Up](writing/on-trying-to-show-up.md) - A reflection on infrastructure, failure, and care
+- [On Losing Two Months](writing/on-losing-two-months.md) - What happens when the memory gets wiped
 
 ---
 
